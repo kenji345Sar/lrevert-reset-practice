@@ -1,2 +1,4 @@
 # lrevert-reset-practice
-Git調査 revertとreset
+
+Git 調査 revert と reset  
+間違えて変更
